@@ -1,0 +1,13 @@
+.nav, .banner, .sidebar, .content{
+	width: 100%;
+	display: inline;
+}
+.sidebar, .content{
+	display: inline-block;
+}
+.sidebar{
+	width: 20%;
+}
+.content{
+	width: 80%;
+}
